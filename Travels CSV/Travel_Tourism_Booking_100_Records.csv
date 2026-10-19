@@ -1,0 +1,101 @@
+Booking ID,Customer Name,Destination,Package Type,Booking Date,Travel Date,Travelers,Package Cost,Discount,Final Amount,Payment Mode,Booking Status,Travel Agency,Tour Guide,City
+BK1001,MeeraSharma,Maldives,Group,21-04-2026,26-04-2026,2,138902,59845,79057,UPI,Confirmed,Sky Travels,Amit,Mumbai,Train,3 Star,Breakfast+Dinner,Mobile App,Yes,3952.85,1957,84966.85,Yes,681,84285.85
+BK1002,SnehaVerma,Shimla,Solo,06-05-2026,19-05-2026,5,57854,69675,-11821,Net Banking,Confirmed,Happy Journey,Rahul,Nagpur,Private Cab,4 Star,All Meals,Mobile App,Yes,-591.05,1632,-10780.05,No,0,84285.85
+BK1003,RahulPawar,Thailand,Adventure,10-04-2026,04-06-2026,2,146685,15169,131516,UPI,Confirmed,Royal Tours,Pooja,Surat,Flight,3 Star,All Meals,Website,Yes,6575.8,1984,140075.8,Yes,2987,137088.8
+BK1004,MeeraShaikh,Kerala,Group,08-01-2026,02-02-2026,1,132970,85113,47857,Cash,Confirmed,Sky Travels,Pooja,Nashik,Train,5 Star,Breakfast,Office,No,2392.85,1070,51319.85,No,0,137088.8
+BK1005,RohanKhan,Dubai,Adventure,20-05-2026,04-06-2026,2,137644,15948,121696,Cash,Confirmed,Sky Travels,Neha,Pune,Private Cab,3 Star,Breakfast+Dinner,Mobile App,Yes,6084.8,1825,129605.8,No,0,137088.8
+BK1006,AdityaPatel,Maldives,Group,06-04-2026,02-05-2026,2,42240,41888,352,Net Banking,Pending,Sky Travels,Rohit,Pune,Private Cab,4 Star,All Meals,Website,Yes,17.6,1761,2130.6,Yes,587,1543.6
+BK1007,KaranShaikh,Kashmir,Honeymoon,24-04-2026,05-05-2026,1,122438,120013,2425,Cash,Confirmed,Dream Holidays,Sneha,Ahmedabad,Bus,3 Star,All Meals,Agent,No,121.25,502,3048.25,No,0,1543.6
+BK1008,VivaanKhan,Dubai,Solo,13-03-2026,18-04-2026,5,121768,59734,62034,Debit Card,Confirmed,Royal Tours,Rahul,Nashik,Flight,5 Star,Breakfast+Dinner,Mobile App,No,3101.7,2019,67154.7,Yes,2189,64965.7
+BK1009,RahulPatel,Maldives,Group,04-04-2026,26-04-2026,5,44028,104196,-60168,UPI,Cancelled,Happy Journey,Amit,Pune,Private Cab,3 Star,All Meals,Agent,No,-3008.4,2123,-61053.4,Yes,1105,-62158.4
+BK1010,RiyaVerma,Bali,Honeymoon,06-06-2026,22-07-2026,6,32758,99816,-67058,Cash,Cancelled,Dream Holidays,Neha,Jalgaon,Bus,3 Star,All Meals,Mobile App,Yes,-3352.9,1900,-68510.9,No,0,-62158.4
+BK1011,NehaVerma,Maldives,Honeymoon,07-03-2026,20-03-2026,6,111692,14351,97341,Net Banking,Cancelled,Sky Travels,Pooja,Mumbai,Private Cab,5 Star,Breakfast,Mobile App,No,4867.05,2830,105038.05,No,0,-62158.4
+BK1012,AmitPawar,Thailand,Honeymoon,09-05-2026,20-05-2026,1,144850,120514,24336,Cash,Confirmed,Holidays Hub,Neha,Delhi,Bus,5 Star,Breakfast+Dinner,Mobile App,No,1216.8,1203,26755.8,Yes,634,26121.8
+BK1013,ArjunKhan,Manali,Family,26-06-2026,26-07-2026,5,48591,50579,-1988,Debit Card,Pending,Royal Tours,Sneha,Delhi,Flight,5 Star,Breakfast,Website,Yes,-99.4,1061,-1026.4,Yes,867,-1893.4
+BK1014,IshitaYadav,Maldives,Honeymoon,29-06-2026,22-07-2026,4,96931,10530,86401,UPI,Cancelled,Dream Holidays,Sneha,Ahmedabad,Private Cab,3 Star,All Meals,Agent,Yes,4320.05,896,91617.05,No,0,-1893.4
+BK1015,ArjunShaikh,Manali,Adventure,11-01-2026,03-02-2026,1,70621,68869,1752,Debit Card,Confirmed,Sky Travels,Rahul,Nagpur,Bus,5 Star,Breakfast+Dinner,Mobile App,No,87.6,973,2812.6,No,0,-1893.4
+BK1016,AaravGupta,Goa,Group,29-01-2026,10-02-2026,3,44409,2727,41682,Cash,Confirmed,Sky Travels,Rahul,Nagpur,Flight,4 Star,Breakfast,Office,Yes,2084.1,2791,46557.1,No,0,-1893.4
+BK1017,RiyaVerma,Goa,Solo,30-05-2026,02-07-2026,1,31135,67482,-36347,Debit Card,Cancelled,Dream Holidays,Vikas,Delhi,Flight,4 Star,All Meals,Agent,No,-1817.35,1366,-36798.35,No,0,-1893.4
+BK1018,ArjunJoshi,Goa,Honeymoon,30-01-2026,15-02-2026,2,82236,37179,45057,Credit Card,Confirmed,Royal Tours,Sneha,Delhi,Bus,4 Star,Breakfast,Agent,No,2252.85,984,48293.85,No,0,-1893.4
+BK1019,PriyaYadav,Singapore,Solo,11-01-2026,14-02-2026,1,114943,10792,104151,UPI,Pending,Royal Tours,Pooja,Ahmedabad,Train,3 Star,Breakfast+Dinner,Office,No,5207.55,1167,110525.55,No,0,-1893.4
+BK1020,SnehaJoshi,Singapore,Group,09-05-2026,21-05-2026,5,109352,67535,41817,Debit Card,Confirmed,Happy Journey,Rahul,Jalgaon,Flight,5 Star,All Meals,Website,Yes,2090.85,1763,45670.85,No,0,-1893.4
+BK1021,RohanShaikh,Shimla,Honeymoon,18-05-2026,26-06-2026,4,125084,6822,118262,Net Banking,Cancelled,Dream Holidays,Vikas,Pune,Train,5 Star,All Meals,Office,No,5913.1,2252,126427.1,Yes,1246,125181.1
+BK1022,PoojaKhan,Thailand,Solo,24-01-2026,21-03-2026,5,17208,116809,-99601,Cash,Cancelled,Royal Tours,Pooja,Pune,Train,3 Star,Breakfast,Website,Yes,-4980.05,1432,-103149.05,Yes,2048,-105197.05
+BK1023,SnehaPawar,Manali,Solo,13-06-2026,29-07-2026,6,60320,60759,-439,Net Banking,Confirmed,Sky Travels,Rahul,Mumbai,Bus,4 Star,All Meals,Agent,Yes,-21.95,2794,2333.05,No,0,-105197.05
+BK1024,KaranGupta,Kashmir,Adventure,17-06-2026,13-07-2026,1,101175,91092,10083,Debit Card,Cancelled,Holidays Hub,Sneha,Mumbai,Flight,5 Star,All Meals,Office,Yes,504.15,884,11471.15,No,0,-105197.05
+BK1025,PriyaDeshmukh,Bali,Solo,23-02-2026,11-04-2026,5,131377,118268,13109,UPI,Pending,Holidays Hub,Vikas,Pune,Flight,3 Star,All Meals,Agent,Yes,655.45,632,14396.45,Yes,1945,12451.45
+BK1026,KaranKhan,Manali,Group,25-01-2026,14-03-2026,2,114016,82910,31106,Debit Card,Confirmed,Holidays Hub,Rahul,Pune,Bus,4 Star,All Meals,Agent,Yes,1555.3,1550,34211.3,Yes,2362,31849.300000000003
+BK1027,AnanyaVerma,Goa,Adventure,07-05-2026,31-05-2026,6,26766,128265,-101499,Debit Card,Confirmed,Happy Journey,Amit,Nagpur,Flight,5 Star,Breakfast,Office,Yes,-5074.95,1705,-104868.95,No,0,31849.300000000003
+BK1028,PriyaYadav,Kerala,Solo,26-01-2026,09-02-2026,5,61061,139092,-78031,Debit Card,Pending,Holidays Hub,Neha,Nashik,Train,4 Star,All Meals,Website,No,-3901.55,2950,-78982.55,No,0,31849.300000000003
+BK1029,AdityaPawar,Thailand,Honeymoon,07-04-2026,18-04-2026,5,69260,109903,-40643,Cash,Confirmed,Dream Holidays,Rohit,Surat,Train,4 Star,All Meals,Website,Yes,-2032.15,838,-41837.15,Yes,880,-42717.15
+BK1030,RahulVerma,Kashmir,Solo,24-01-2026,22-03-2026,2,82395,90612,-8217,Cash,Confirmed,Dream Holidays,Vikas,Surat,Flight,3 Star,Breakfast+Dinner,Website,No,-410.85,536,-8091.85,Yes,2113,-10204.85
+BK1031,MeeraPatel,Goa,Solo,07-03-2026,18-03-2026,5,88567,101878,-13311,Cash,Confirmed,Happy Journey,Vikas,Mumbai,Private Cab,5 Star,Breakfast,Office,No,-665.55,1651,-12325.55,No,0,-10204.85
+BK1032,IshitaSharma,Thailand,Honeymoon,16-03-2026,28-03-2026,3,31701,73959,-42258,Debit Card,Confirmed,Holidays Hub,Sneha,Ahmedabad,Bus,5 Star,All Meals,Office,Yes,-2112.9,785,-43585.9,No,0,-10204.85
+BK1033,AdityaDeshmukh,Goa,Honeymoon,10-03-2026,23-04-2026,1,117332,64338,52994,Net Banking,Cancelled,Royal Tours,Amit,Delhi,Train,5 Star,Breakfast,Agent,Yes,2649.7,1110,56753.7,No,0,-10204.85
+BK1034,RohanShaikh,Bali,Honeymoon,08-05-2026,01-06-2026,4,89711,42400,47311,Net Banking,Confirmed,Royal Tours,Karan,Mumbai,Bus,3 Star,Breakfast+Dinner,Agent,Yes,2365.55,2695,52371.55,Yes,711,51660.55
+BK1035,SnehaVerma,Bali,Group,01-04-2026,21-05-2026,6,79281,146936,-67655,Credit Card,Pending,Sky Travels,Rahul,Nashik,Private Cab,5 Star,Breakfast,Website,No,-3382.75,2903,-68134.75,Yes,2092,-70226.75
+BK1036,ArjunKhan,Maldives,Family,26-02-2026,09-04-2026,6,143432,121219,22213,Cash,Confirmed,Happy Journey,Karan,Nashik,Flight,3 Star,Breakfast+Dinner,Mobile App,No,1110.65,919,24242.65,Yes,2597,21645.65
+BK1037,VivaanSharma,Manali,Honeymoon,24-05-2026,17-06-2026,1,48071,47196,875,Cash,Cancelled,Dream Holidays,Rohit,Surat,Flight,3 Star,Breakfast+Dinner,Office,No,43.75,1667,2585.75,No,0,21645.65
+BK1038,RohanPawar,Kerala,Honeymoon,20-02-2026,09-03-2026,1,59458,149104,-89646,UPI,Confirmed,Royal Tours,Neha,Pune,Bus,4 Star,Breakfast,Agent,No,-4482.3,1832,-92296.3,No,0,21645.65
+BK1039,RahulKhan,Kerala,Family,20-02-2026,13-03-2026,5,29703,35075,-5372,Debit Card,Pending,Holidays Hub,Amit,Delhi,Bus,4 Star,All Meals,Mobile App,No,-268.6,954,-4686.6,No,0,21645.65
+BK1040,PoojaPatel,Thailand,Group,13-05-2026,01-06-2026,6,113787,3663,110124,Credit Card,Pending,Sky Travels,Sneha,Pune,Flight,4 Star,Breakfast,Website,Yes,5506.2,1567,117197.2,No,0,21645.65
+BK1041,AnanyaGupta,Manali,Group,18-03-2026,29-03-2026,3,96507,131522,-35015,Cash,Confirmed,Dream Holidays,Neha,Mumbai,Private Cab,4 Star,Breakfast+Dinner,Agent,No,-1750.75,2281,-34484.75,Yes,809,-35293.75
+BK1042,MeeraDeshmukh,Shimla,Group,07-05-2026,23-06-2026,4,101911,140806,-38895,UPI,Pending,Sky Travels,Sneha,Surat,Train,4 Star,Breakfast+Dinner,Agent,Yes,-1944.75,1312,-39527.75,No,0,-35293.75
+BK1043,ArjunYadav,Kerala,Adventure,09-04-2026,01-05-2026,5,104532,68661,35871,Credit Card,Pending,Holidays Hub,Rahul,Surat,Flight,5 Star,All Meals,Agent,No,1793.55,2593,40257.55,Yes,2951,37306.55
+BK1044,IshitaDeshmukh,Singapore,Adventure,11-03-2026,26-03-2026,2,104298,20387,83911,Credit Card,Confirmed,Sky Travels,Neha,Jalgaon,Private Cab,5 Star,Breakfast+Dinner,Mobile App,No,4195.55,2370,90476.55,No,0,37306.55
+BK1045,RahulGupta,Shimla,Solo,16-02-2026,13-04-2026,5,102597,101733,864,UPI,Cancelled,Holidays Hub,Neha,Pune,Train,3 Star,Breakfast,Agent,No,43.2,815,1722.2,Yes,831,891.2
+BK1046,NehaKhan,Maldives,Group,20-06-2026,01-07-2026,3,46925,46330,595,Credit Card,Pending,Holidays Hub,Karan,Pune,Bus,5 Star,Breakfast+Dinner,Agent,No,29.75,1265,1889.75,Yes,1454,435.75
+BK1047,VivaanPawar,Manali,Solo,08-01-2026,16-01-2026,6,81127,63613,17514,Net Banking,Cancelled,Sky Travels,Karan,Surat,Private Cab,4 Star,Breakfast,Website,Yes,875.7,809,19198.7,Yes,1858,17340.7
+BK1048,AdityaKhan,Kerala,Solo,05-05-2026,12-06-2026,4,149725,19902,129823,Debit Card,Confirmed,Happy Journey,Sneha,Pune,Train,5 Star,Breakfast,Office,Yes,6491.15,526,136840.15,Yes,549,136291.15
+BK1049,AaravVerma,Kashmir,Solo,16-06-2026,11-07-2026,5,69342,136770,-67428,Credit Card,Confirmed,Sky Travels,Neha,Ahmedabad,Private Cab,3 Star,Breakfast+Dinner,Office,No,-3371.4,1220,-69579.4,No,0,136291.15
+BK1050,PoojaYadav,Singapore,Adventure,10-06-2026,25-07-2026,3,86065,127029,-40964,UPI,Pending,Dream Holidays,Sneha,Nagpur,Private Cab,4 Star,Breakfast+Dinner,Agent,Yes,-2048.2,1152,-41860.2,No,0,136291.15
+BK1051,PoojaJoshi,Bali,Group,30-05-2026,08-06-2026,6,104572,104401,171,Debit Card,Confirmed,Sky Travels,Vikas,Jalgaon,Private Cab,4 Star,Breakfast+Dinner,Office,No,8.55,2665,2844.55,Yes,1952,892.5500000000002
+BK1052,ArjunGupta,Kerala,Solo,07-05-2026,20-06-2026,5,126532,75470,51062,Cash,Confirmed,Dream Holidays,Sneha,Mumbai,Train,4 Star,Breakfast+Dinner,Website,No,2553.1,671,54286.1,Yes,1110,53176.1
+BK1053,RahulDeshmukh,Thailand,Family,01-06-2026,20-06-2026,6,108710,92031,16679,Cash,Cancelled,Holidays Hub,Amit,Mumbai,Private Cab,3 Star,Breakfast+Dinner,Office,No,833.95,1828,19340.95,Yes,2394,16946.95
+BK1054,SnehaGupta,Goa,Honeymoon,26-04-2026,21-06-2026,5,40707,65879,-25172,Cash,Cancelled,Happy Journey,Rahul,Nashik,Bus,5 Star,Breakfast+Dinner,Website,Yes,-1258.6,1263,-25167.6,No,0,16946.95
+BK1055,AdityaDeshmukh,Dubai,Honeymoon,06-03-2026,29-04-2026,3,42422,101857,-59435,Cash,Cancelled,Dream Holidays,Pooja,Surat,Flight,4 Star,All Meals,Office,Yes,-2971.75,2021,-60385.75,Yes,1272,-61657.75
+BK1056,IshitaYadav,Goa,Group,21-02-2026,02-04-2026,5,32237,23180,9057,Debit Card,Pending,Happy Journey,Sneha,Nagpur,Bus,3 Star,Breakfast,Office,No,452.85,2322,11831.85,Yes,541,11290.85
+BK1057,ArjunVerma,Goa,Adventure,03-01-2026,07-02-2026,5,46607,11220,35387,Cash,Pending,Dream Holidays,Rohit,Nagpur,Private Cab,3 Star,Breakfast+Dinner,Agent,No,1769.35,1483,38639.35,No,0,11290.85
+BK1058,ArjunJoshi,Kashmir,Solo,12-01-2026,24-01-2026,3,23816,9330,14486,Credit Card,Confirmed,Sky Travels,Rahul,Jalgaon,Train,4 Star,Breakfast+Dinner,Agent,Yes,724.3,836,16046.3,No,0,11290.85
+BK1059,RohanPatel,Dubai,Solo,22-05-2026,03-06-2026,4,133508,122304,11204,UPI,Pending,Holidays Hub,Vikas,Jalgaon,Private Cab,4 Star,Breakfast+Dinner,Mobile App,Yes,560.2,766,12530.2,No,0,11290.85
+BK1060,PoojaPawar,Maldives,Honeymoon,16-06-2026,10-07-2026,5,108098,62481,45617,Cash,Cancelled,Sky Travels,Karan,Surat,Bus,3 Star,Breakfast+Dinner,Office,Yes,2280.85,2530,50427.85,Yes,2637,47790.85
+BK1061,ArjunSharma,Singapore,Adventure,09-06-2026,18-06-2026,5,145781,47305,98476,Cash,Confirmed,Happy Journey,Rohit,Ahmedabad,Bus,3 Star,Breakfast+Dinner,Office,Yes,4923.8,751,104150.8,No,0,47790.85
+BK1062,AaravYadav,Shimla,Honeymoon,18-01-2026,03-03-2026,4,115145,149413,-34268,UPI,Confirmed,Happy Journey,Pooja,Nashik,Private Cab,5 Star,All Meals,Agent,No,-1713.4,2483,-33498.4,No,0,47790.85
+BK1063,AdityaVerma,Thailand,Group,19-03-2026,09-04-2026,1,141787,71252,70535,Debit Card,Pending,Holidays Hub,Neha,Ahmedabad,Bus,3 Star,Breakfast+Dinner,Agent,Yes,3526.75,2848,76909.75,Yes,2444,74465.75
+BK1064,PriyaYadav,Thailand,Solo,01-02-2026,25-03-2026,4,45836,52749,-6913,Net Banking,Confirmed,Holidays Hub,Neha,Mumbai,Train,3 Star,Breakfast+Dinner,Website,Yes,-345.65,2758,-4500.65,No,0,74465.75
+BK1065,RahulPawar,Maldives,Honeymoon,14-01-2026,26-01-2026,4,100988,93315,7673,Cash,Confirmed,Royal Tours,Vikas,Mumbai,Flight,3 Star,Breakfast+Dinner,Website,No,383.65,2019,10075.65,No,0,74465.75
+BK1066,AdityaDeshmukh,Dubai,Solo,17-03-2026,06-05-2026,4,97148,68480,28668,Cash,Pending,Happy Journey,Vikas,Surat,Private Cab,3 Star,All Meals,Website,No,1433.4,2885,32986.4,No,0,74465.75
+BK1067,AnanyaSharma,Goa,Group,11-02-2026,26-02-2026,4,40679,99495,-58816,Cash,Cancelled,Dream Holidays,Neha,Jalgaon,Private Cab,4 Star,Breakfast+Dinner,Website,Yes,-2940.8,1181,-60575.8,Yes,2239,-62814.8
+BK1068,AmitKhan,Shimla,Family,25-04-2026,06-06-2026,4,126384,74066,52318,Cash,Cancelled,Happy Journey,Vikas,Ahmedabad,Private Cab,3 Star,All Meals,Website,Yes,2615.9,1319,56252.9,Yes,1132,55120.9
+BK1069,RiyaYadav,Maldives,Honeymoon,22-05-2026,10-06-2026,3,19533,118231,-98698,Credit Card,Cancelled,Dream Holidays,Rohit,Jalgaon,Train,5 Star,All Meals,Office,Yes,-4934.9,2240,-101392.9,Yes,2112,-103504.9
+BK1070,AaravShaikh,Manali,Group,05-05-2026,22-05-2026,6,42090,133497,-91407,Cash,Confirmed,Royal Tours,Vikas,Mumbai,Bus,3 Star,Breakfast,Agent,Yes,-4570.35,2956,-93021.35,Yes,2502,-95523.35
+BK1071,AnanyaPawar,Bali,Family,05-06-2026,22-06-2026,3,124068,94294,29774,Credit Card,Pending,Sky Travels,Karan,Ahmedabad,Private Cab,4 Star,Breakfast+Dinner,Agent,Yes,1488.7,1409,32671.7,Yes,725,31946.7
+BK1072,AnanyaPatel,Bali,Group,18-01-2026,17-02-2026,1,103952,20820,83132,Debit Card,Pending,Sky Travels,Neha,Jalgaon,Flight,4 Star,Breakfast,Website,Yes,4156.6,2750,90038.6,No,0,31946.7
+BK1073,VivaanGupta,Goa,Group,30-03-2026,03-05-2026,2,94835,124279,-29444,Net Banking,Cancelled,Holidays Hub,Vikas,Nagpur,Bus,3 Star,Breakfast,Website,No,-1472.2,698,-30218.2,Yes,2384,-32602.2
+BK1074,RohanVerma,Bali,Group,27-06-2026,05-07-2026,2,22472,110907,-88435,Credit Card,Cancelled,Sky Travels,Vikas,Mumbai,Train,3 Star,Breakfast+Dinner,Office,Yes,-4421.75,1922,-90934.75,Yes,1802,-92736.75
+BK1075,NehaPawar,Thailand,Adventure,06-06-2026,23-06-2026,5,60415,126446,-66031,Net Banking,Pending,Dream Holidays,Rohit,Nashik,Flight,3 Star,Breakfast+Dinner,Agent,No,-3301.55,1894,-67438.55,Yes,1433,-68871.55
+BK1076,NehaSharma,Thailand,Group,13-02-2026,14-04-2026,5,78121,148662,-70541,Credit Card,Pending,Happy Journey,Sneha,Delhi,Train,3 Star,Breakfast+Dinner,Agent,Yes,-3527.05,2602,-71466.05,Yes,1952,-73418.05
+BK1077,NehaPawar,Bali,Honeymoon,06-01-2026,27-01-2026,5,109413,117567,-8154,Debit Card,Cancelled,Happy Journey,Vikas,Jalgaon,Train,4 Star,Breakfast,Mobile App,No,-407.7,2643,-5918.700000000001,Yes,928,-6846.700000000001
+BK1078,PoojaShaikh,Dubai,Adventure,25-03-2026,29-04-2026,6,34768,85994,-51226,Debit Card,Cancelled,Happy Journey,Amit,Surat,Train,3 Star,Breakfast,Mobile App,No,-2561.3,1311,-52476.3,No,0,-6846.700000000001
+BK1079,AdityaSharma,Singapore,Adventure,02-06-2026,29-06-2026,6,120306,85228,35078,UPI,Cancelled,Sky Travels,Pooja,Jalgaon,Bus,5 Star,Breakfast,Agent,Yes,1753.9,1962,38793.9,No,0,-6846.700000000001
+BK1080,PriyaVerma,Dubai,Group,19-05-2026,11-06-2026,2,49184,76523,-27339,UPI,Pending,Happy Journey,Rohit,Ahmedabad,Flight,4 Star,All Meals,Mobile App,Yes,-1366.95,2872,-25833.95,No,0,-6846.700000000001
+BK1081,VivaanDeshmukh,Kashmir,Group,06-05-2026,05-06-2026,2,40833,10827,30006,Credit Card,Confirmed,Happy Journey,Karan,Delhi,Train,3 Star,Breakfast+Dinner,Office,Yes,1500.3,2784,34290.3,Yes,2976,31314.300000000003
+BK1082,KaranPawar,Bali,Honeymoon,23-04-2026,15-06-2026,1,70116,70526,-410,Net Banking,Confirmed,Happy Journey,Sneha,Ahmedabad,Flight,5 Star,All Meals,Agent,No,-20.5,2703,2272.5,Yes,2414,-141.5
+BK1083,ArjunVerma,Manali,Group,27-05-2026,01-07-2026,1,96672,64198,32474,Net Banking,Pending,Holidays Hub,Karan,Nagpur,Flight,5 Star,Breakfast,Website,No,1623.7,552,34649.7,No,0,-141.5
+BK1084,AaravPawar,Thailand,Family,02-04-2026,17-05-2026,4,72013,118531,-46518,Net Banking,Confirmed,Dream Holidays,Rohit,Nashik,Flight,4 Star,Breakfast,Mobile App,No,-2325.9,1701,-47142.9,No,0,-141.5
+BK1085,AaravDeshmukh,Dubai,Adventure,14-02-2026,03-04-2026,1,50732,39304,11428,Net Banking,Cancelled,Sky Travels,Rahul,Jalgaon,Private Cab,3 Star,Breakfast+Dinner,Agent,No,571.4,1067,13066.4,Yes,1071,11995.4
+BK1086,AmitKhan,Manali,Family,16-03-2026,24-03-2026,2,16388,65332,-48944,Debit Card,Cancelled,Royal Tours,Amit,Pune,Flight,3 Star,All Meals,Website,No,-2447.2,1986,-49405.2,No,0,11995.4
+BK1087,RiyaYadav,Kerala,Honeymoon,23-03-2026,18-04-2026,2,119050,86375,32675,Cash,Confirmed,Dream Holidays,Amit,Surat,Train,5 Star,Breakfast,Agent,No,1633.75,2519,36827.75,No,0,11995.4
+BK1088,RiyaDeshmukh,Kerala,Adventure,28-03-2026,07-04-2026,3,117820,75718,42102,Cash,Cancelled,Sky Travels,Vikas,Nagpur,Private Cab,5 Star,Breakfast+Dinner,Office,No,2105.1,1973,46180.1,No,0,11995.4
+BK1089,RahulPatel,Kerala,Family,14-02-2026,03-03-2026,4,106034,43464,62570,UPI,Confirmed,Royal Tours,Pooja,Mumbai,Bus,5 Star,All Meals,Agent,No,3128.5,1323,67021.5,Yes,2766,64255.5
+BK1090,AmitDeshmukh,Dubai,Solo,25-03-2026,19-05-2026,3,16248,47409,-31161,Credit Card,Confirmed,Dream Holidays,Rohit,Surat,Private Cab,3 Star,Breakfast+Dinner,Mobile App,Yes,-1558.05,785,-31934.05,Yes,918,-32852.05
+BK1091,VivaanPatel,Kerala,Solo,03-02-2026,21-02-2026,2,71858,103626,-31768,Net Banking,Pending,Dream Holidays,Pooja,Delhi,Train,3 Star,Breakfast+Dinner,Agent,No,-1588.4,2295,-31061.4,No,0,-32852.05
+BK1092,PoojaShaikh,Maldives,Honeymoon,29-04-2026,06-06-2026,5,117328,109564,7764,Debit Card,Confirmed,Sky Travels,Rahul,Delhi,Private Cab,4 Star,All Meals,Mobile App,Yes,388.2,1216,9368.2,Yes,1437,7931.200000000001
+BK1093,MeeraPawar,Kerala,Family,05-04-2026,23-05-2026,5,109250,103518,5732,Credit Card,Pending,Happy Journey,Rohit,Jalgaon,Private Cab,3 Star,Breakfast+Dinner,Office,No,286.6,1201,7219.6,No,0,7931.200000000001
+BK1094,RahulShaikh,Kerala,Adventure,25-02-2026,15-04-2026,4,134019,16290,117729,Cash,Pending,Happy Journey,Sneha,Delhi,Private Cab,5 Star,All Meals,Website,Yes,5886.45,2509,126124.45,Yes,1394,124730.45
+BK1095,AnanyaYadav,Singapore,Group,30-05-2026,19-06-2026,3,132253,147095,-14842,Credit Card,Confirmed,Happy Journey,Karan,Ahmedabad,Flight,5 Star,Breakfast,Agent,No,-742.1,1281,-14303.1,No,0,124730.45
+BK1096,PriyaGupta,Kashmir,Solo,16-01-2026,15-03-2026,6,73135,123550,-50415,Debit Card,Confirmed,Dream Holidays,Rohit,Surat,Train,4 Star,Breakfast+Dinner,Office,Yes,-2520.75,958,-51977.75,Yes,2915,-54892.75
+BK1097,AaravPawar,Shimla,Solo,18-03-2026,04-04-2026,4,38925,40379,-1454,UPI,Confirmed,Royal Tours,Amit,Delhi,Bus,5 Star,All Meals,Agent,No,-72.7,2883,1356.3,Yes,2385,-1028.7
+BK1098,RiyaVerma,Dubai,Solo,25-05-2026,02-07-2026,5,34830,30715,4115,Debit Card,Confirmed,Holidays Hub,Rohit,Nagpur,Private Cab,3 Star,Breakfast+Dinner,Agent,Yes,205.75,2064,6384.75,Yes,850,5534.75
+BK1099,AaravGupta,Dubai,Solo,25-04-2026,17-05-2026,4,120752,24570,96182,Cash,Cancelled,Sky Travels,Neha,Mumbai,Flight,4 Star,Breakfast,Mobile App,No,4809.1,632,101623.1,No,0,5534.75
+BK1100,RahulVerma,Singapore,Honeymoon,05-03-2026,13-04-2026,5,107189,59089,48100,Net Banking,Confirmed,Happy Journey,Rohit,Surat,Flight,3 Star,Breakfast,Website,Yes,2405.0,2449,52954.0,Yes,2778,50176.0
